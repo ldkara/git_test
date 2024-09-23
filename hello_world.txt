@@ -1,1 +1,2 @@
 This is to test staging 
+I want to see if I can read the commit messages
